@@ -1,0 +1,31 @@
+body{
+    background-color:cadetblue;
+    margin: 0;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: auto;
+    
+    
+     }
+     h1
+     {
+         color: chocolate;
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         font-weight: normal;
+        
+     }
+     h2
+     {
+        color: chocolate; 
+     }
+     p
+     {
+         font-style:normal;
+     }
+.profile
+{
+  size: 500%;
+}
